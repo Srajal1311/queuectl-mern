@@ -236,7 +236,7 @@ System is fully cross-platform (tested on Windows CMD and Linux Bash)
 
 DLQ listing and retry
 
-Upload it to Google Drive and include the link here before submission.
+Link to Google Drive: https://drive.google.com/drive/folders/1xiTZoD6WvXXYlpisKAduUgn7i1fZuw5s?usp=sharing
 
 🏁 Conclusion
 
